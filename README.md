@@ -39,8 +39,8 @@ Analyze the company's sales data sheet to identify key performance indicators (K
 **1.On Average how long does it take the orders to reach our clients? Based on each Shipping
 Mode**
 
-What is the most used ship mode by our customer?		
-	
-![image](https://github.com/Steffi-9/Sales_Analysis_KPIS/assets/58806839/d621659c-2ab9-45a2-89ae-a19329f77eae)
+# Pivot Tables
+
+![image](https://github.com/Steffi-9/Sales_Analysis_KPIS/assets/58806839/886639e1-f9d8-4003-a51b-45abeb3dbde1)
 
  
