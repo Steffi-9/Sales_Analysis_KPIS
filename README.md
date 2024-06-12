@@ -43,4 +43,12 @@ Mode**
 
 ![image](https://github.com/Steffi-9/Sales_Analysis_KPIS/assets/58806839/886639e1-f9d8-4003-a51b-45abeb3dbde1)
 
+![image](https://github.com/Steffi-9/Sales_Analysis_KPIS/assets/58806839/6db046c4-f704-4c80-87d6-a8e12670d4c5)
+
+# Dashboards
+
+![image](https://github.com/Steffi-9/Sales_Analysis_KPIS/assets/58806839/fc30d65b-0210-49c5-9559-f9b2101a5fc2)
+
+
+
  
