@@ -38,4 +38,15 @@ Analyze the company's sales data sheet to identify key performance indicators (K
 
 **1.On Average how long does it take the orders to reach our clients? Based on each Shipping
 Mode**
+
+What is the most used ship mode by our customer?		
+Row Labels	Count of Customer ID	
+Standard Class	5968	
+Second Class	1945	
+First Class	1538	
+Same Day	543	
+Grand Total	9994	
+Standard Class is the most ship mode		
+![image](https://github.com/Steffi-9/Sales_Analysis_KPIS/assets/58806839/d621659c-2ab9-45a2-89ae-a19329f77eae)
+
  
