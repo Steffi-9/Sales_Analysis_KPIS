@@ -11,31 +11,31 @@ Analyze the company's sales data sheet to identify key performance indicators (K
 
 4- Modeling the data and adding some measures and other columns to help me in analysis.
 
-## Analysis
-# To Enhance Customer Loyalty
+# Analysis
+## To Enhance Customer Loyalty
 
-**What is the most used ship mode by our customer?**
+**1.What is the most used ship mode by our customer?**
 
-Who are our top 5 customers in terms of sales and order frequency?
+**2.Who are our top 5 customers in terms of sales and order frequency?**
 
-To monitor our strength and weak points
+## To monitor our strength and weak points
 
-Which segment of clients generates the most sales?
+**1.Which segment of clients generates the most sales?**
 
-Which city has the most sales value?
+**2.Which city has the most sales value?**
 
-Which state generates the most sales value?
+**3.Which state generates the most sales value?**
 
-Performance measurement
+## Performance measurement
 
-What are the top performing product categories in terms of sales and profit?
+**1.What are the top performing product categories in terms of sales and profit?**
 
-What is the most profitable product that we sell?
+**2.What is the most profitable product that we sell?**
 
-What is the lowest profitable product that we sell?
+**3.What is the lowest profitable product that we sell?**
 
-Customer Experience
+## Customer Experience
 
-On Average how long does it take the orders to reach our clients? Based on each Shipping
-Mode
+**1.On Average how long does it take the orders to reach our clients? Based on each Shipping
+Mode**
  
